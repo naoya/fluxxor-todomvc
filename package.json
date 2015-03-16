@@ -1,0 +1,20 @@
+{
+  "name": "fluxxsor-todomvc",
+  "scripts": {
+    "react": "gulp build",
+    "watch": "gulp watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naoya",
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "fluxxor": "^1.5.2",
+    "gulp": "^3.8.11",
+    "gulp-connect": "^2.2.0",
+    "gulp-util": "^3.0.4",
+    "object-assign": "^2.0.0",
+    "react": "^0.13.0",
+    "reactify": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
